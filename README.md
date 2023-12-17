@@ -9,6 +9,7 @@ Thanks to the use of quantized Llama2-7b, `"TheBloke/Llama-2-7B-Chat-GPTQ"` It i
 This README will guide you through the setup and usage of the Llama2 chatbot.
 
 Demo:
+
 ![demo](https://github.com/safouane95/llama-2-rag/assets/54261127/c5bdaeb8-6732-47be-8699-b467e3c2cffd)
 
 
